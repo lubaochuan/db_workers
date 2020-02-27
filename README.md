@@ -43,7 +43,7 @@ MariaDB [CIS3323]> desc Bonus;
 ```
 
 ## Queries
-1. Write An SQL query to fetch "FIRST_NAME" from Worker table using the alias name as "WORKER_NAME".
+1. Write an SQL query to fetch "FIRST_NAME" from Worker table using the alias name as "WORKER_NAME".
 ```
 +-------------+
 | WORKER_NAME |
